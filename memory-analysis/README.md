@@ -32,5 +32,8 @@ Hello everyone! This repository contains :
 > - 50GB+ free disk space (For the challenges)
 
 ## Challenge Files Download
+
+## Writeup
 https://www.notion.so/3ch0/Foxy-s-Hub-1e1d05a447d5804fab00fa9b12469402?source=copy_link
+
 
